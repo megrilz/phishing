@@ -1,5 +1,13 @@
 # phishing
 
+This is for educational purposes only. I used Blackeye as a phishing tool that uses ngrok. 
+
+Commands to Install
+git clone https://github.com/thelinuxchoice/blackeye
+cd blackeye
+bash blackeye.sh
+
+
 ![image](https://user-images.githubusercontent.com/80080368/122428151-ad397a00-cf5f-11eb-9715-2794533e7d45.png)
 
 

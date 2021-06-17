@@ -2,12 +2,15 @@
 
 This is for educational purposes only. I used Blackeye as a phishing tool that uses ngrok. 
 
-Commands to Install
+Commands to Install :
+
 git clone https://github.com/thelinuxchoice/blackeye
+
 cd blackeye
+
 bash blackeye.sh
 
-Make sure to disable your firewall
+Make sure to disable your firewall before
 
 ![image](https://user-images.githubusercontent.com/80080368/122428353-d3f7b080-cf5f-11eb-88a6-ad8928658828.png)
 

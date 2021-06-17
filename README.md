@@ -22,7 +22,7 @@ Link Ngrok to your terminal
 
 ![image](https://user-images.githubusercontent.com/80080368/122430992-0c988980-cf62-11eb-9863-695304fcab3f.png)
 
-
+Start up the shell by running - sudo ./blackeye.sh and take your pick between the different phisphing templates
 
 ![image](https://user-images.githubusercontent.com/80080368/122428151-ad397a00-cf5f-11eb-9715-2794533e7d45.png)
 

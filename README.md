@@ -1,4 +1,4 @@
-# phishing
+# Phishing
 
 This is for educational purposes only. I used Blackeye as a phishing tool that uses ngrok. 
 

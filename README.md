@@ -16,7 +16,7 @@ Make sure to disable your firewall before
 
 Establish a local host listener to port 8080
 
-![image](https://user-images.githubusercontent.com/80080368/122428468-ea057100-cf5f-11eb-9f1b-63429fa0d30a.png)
+![image](https://user-images.githubusercontent.com/80080368/122615336-5cf11380-d056-11eb-8270-1dcaf1d9b883.png)
 
 Link Ngrok to your terminal
 

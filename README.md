@@ -31,5 +31,10 @@ Fake LinkedIn crediential harvesting
 
 ![image](https://user-images.githubusercontent.com/80080368/122428238-bf1b1d00-cf5f-11eb-849c-9b87d111694f.png)
 
+Never click on links, then the hacker has your username and password
+
+![image](https://user-images.githubusercontent.com/80080368/122858690-ab1d4580-d2e8-11eb-834d-eb0fa4d6d421.png)
+
+
 
 
